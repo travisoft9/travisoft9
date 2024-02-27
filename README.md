@@ -7,29 +7,34 @@ My name is Travis, and I'm a frontend developer & web designer that enjoys creat
 
 ## 🔧 Technologies & Tools
 
-![Tailwind CSS](https://img.shields.io/static/v1?style=for-the-badge&message=Tailwind+CSS&color=222222&logo=Tailwind+CSS&logoColor=06B6D4&label=)
-![Next JS](https://img.shields.io/badge/Next-222222?style=for-the-badge&logo=next.js&logoColor=white)
-![Vue.js](https://img.shields.io/static/v1?style=for-the-badge&message=Vue.js&color=222222&logo=Vue.js&logoColor=4FC08D&label=)
-![React](https://img.shields.io/static/v1?style=for-the-badge&message=React&color=222222&logo=React&logoColor=61DAFB&label=)
-![Node.js](https://img.shields.io/static/v1?style=for-the-badge&message=Node.js&color=222222&logo=Node.js&logoColor=339933&label=)
-![Gatsby](https://img.shields.io/static/v1?style=for-the-badge&message=Gatsby&color=222222&logo=Gatsby&logoColor=663399&label=)
-![WordPress](https://img.shields.io/static/v1?style=for-the-badge&message=WordPress&color=222222&logo=WordPress&logoColor=21759B&label=)
-![HTML5](https://img.shields.io/static/v1?style=for-the-badge&message=HTML5&color=222222&logo=HTML5&logoColor=E34F26&label=)
-![FRAMER](https://img.shields.io/badge/Framer-00C58E?style=for-the-badge&message=Framer&color=222222&logo=framer&logoColor=blue&label=)
-![NUXT](https://img.shields.io/badge/nuxt%20js-00C58E?style=for-the-badge&message=nuxt%20js&color=222222&logo=nuxtdotjs&logoColor=00C58E&label=)
-![CSS3](https://img.shields.io/static/v1?style=for-the-badge&message=CSS3&color=222222&logo=CSS3&logoColor=1572B6&label=)
-![Shopify](https://img.shields.io/badge/Shopify-222222?style=for-the-badge&logo=shopify&logoColor=339933)
-![Material-UI](https://img.shields.io/static/v1?style=for-the-badge&message=Material-UI&color=222222&logo=Material-UI&logoColor=0081CB&label=)
-![GreenSock](https://img.shields.io/static/v1?style=for-the-badge&message=GreenSock&color=222222&logo=GreenSock&logoColor=88CE02&label=)
-![styled-components](https://img.shields.io/static/v1?style=for-the-badge&message=styled-components&color=222222&logo=styled-components&logoColor=FFFFFF&label=)
-![AOS](https://img.shields.io/static/v1?style=for-the-badge&message=AOS&color=222222&logo=Material-UI&logoColor=0081CB&label=)
-![Netlify](https://img.shields.io/badge/Netlify-222222?style=for-the-badge&logo=netlify&logoColor=00C7B7)
-![Vercel](https://img.shields.io/badge/Vercel-222222?style=for-the-badge&logo=vercel&logoColor=white)
-![AUTH0](https://img.shields.io/static/v1?style=for-the-badge&message=Auth0&color=222222&logo=Material-UI&logoColor=0081CB&label=)
-![JavaScript](https://img.shields.io/badge/JavaScript-222222?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-222222?style=for-the-badge&logo=bootstrap&logoColor=563d7c)
-![Ionic](https://img.shields.io/badge/Ionic-222222?style=for-the-badge&logo=ionic&logoColor=3880FF)
-![Ionic](https://img.shields.io/badge/Angular-222222?style=for-the-badge&logo=angular&logoColor=DD0031)
+![TailwindCSS](https://img.shields.io/badge/-TAILWIND_CSS-4db3b4?logo=Tailwind%20CSS&logoColor=white
+)&nbsp;
+![React](https://img.shields.io/badge/-REACT-4aacf7?logo=React&logoColor=white
+)&nbsp;
+![ReactNative](https://img.shields.io/badge/-REACT_NATIVE-0d96ff?logo=React&logoColor=white
+)&nbsp;
+![TypeScript](https://img.shields.io/badge/TYPESCRIPT-%23007ACC.svg?&style=flat&logo=typescript&logoColor=white)&nbsp;
+![VSCode](https://img.shields.io/badge/VSCODE-007ACC.svg?&style=flat&logo=visual-studio-code)&nbsp;
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?&style=flat&logo=css3&logoColor=white)&nbsp;
+![REST API](https://img.shields.io/badge/REST-02569B.svg?&style=flat&logo=rest&logoColor=white)&nbsp;
+![Redux](https://img.shields.io/badge/-REDUX-purple?logo=Redux
+)&nbsp;
+![GRAPHQL](https://img.shields.io/badge/GRAPHQL-E10098.svg?&style=flat&logo=graphql&logoColor=white)&nbsp;
+![Jest](https://img.shields.io/badge/-JEST-853957?logo=jest
+)&nbsp;
+![Canva](https://img.shields.io/badge/-CANVA-7c2bec?logo=CANVA&logoColor=white
+)&nbsp;
+![Figma](https://img.shields.io/badge/-FIGMA-a259ff?logo=figma&logoColor=white
+)&nbsp;
+![HTML5](https://img.shields.io/badge/HTML5-fc490b.svg?&style=flat&logo=html5&logoColor=white)&nbsp;
+![GitLab](https://img.shields.io/badge/GITLAB-fc6b0e.svg?&style=flat&logo=gitlab&logoColor=white)&nbsp;
+![Git](https://img.shields.io/badge/GIT-ff7262.svg?&style=flat&logo=git&logoColor=white)&nbsp;
+![Firebase](https://img.shields.io/badge/FIREBASE-FFCA28.svg?&style=flat&logo=firebase&logoColor=white)&nbsp;
+![JavaScript](https://img.shields.io/badge/JAVASCRIPT-ffe305.svg?&style=flat&logo=javascript&logoColor=white)&nbsp;
+![HTML5](https://img.shields.io/badge/-NEXT.JS-black?logo=Next.js
+)&nbsp;
+![GitHub](https://img.shields.io/badge/GITHUB-%23121011.svg?&style=flat&logo=github&logoColor=white)&nbsp;
+![NodeJS](https://img.shields.io/badge/NODE.JS-339933.svg?&style=flat&logo=node.js&logoColor=white)&nbsp;
 
 <!--![Locomotive-Scroll](https://img.shields.io/static/v1?style=for-the-badge&message=Locomotive-Scroll&color=222222&logo=Locomotive-Scroll&logoColor=0081CB&label=)-->
 
