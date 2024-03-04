@@ -1,8 +1,10 @@
- 
-## <a href="/" rel="nofollow">Hi there, I'm Travis Richards</a> A frontend developer with passion 👨‍💻
+
+## <a href="/" rel="nofollow">Hi there, I'm Travis Richards</a>
+A Senior JavaScript full-stack developer with passion 👨‍💻
 
 
-My name is Travis, and I'm a frontend developer & web designer that enjoys creating things that live on the web. I'm from Denmark, living in US and currently studying web development with focus in frontend development. 
+My name is Travis, skilled software engineer with 10 years of experience, based out of sunny Palm Desert, with a strong background in building modern responsive web applications. Writing clean, scalable, DRY code on modern frameworks is more than just a job to me; it's the reason I get out of bed in the morning (besides coffee).
+
 
 
 ## 🔧 Technologies & Tools
